@@ -1,5 +1,0 @@
-12.5.4
-intltool-dev
-libxml2-dev
-pkgconfig(systemd)
-systemd

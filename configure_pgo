@@ -1,0 +1,9 @@
+--disable-sensors
+--enable-nls
+--disable-file-attr
+--disable-install-cron
+--disable-stripping
+--enable-lto
+--enable-collect-all
+conf_dir=/usr/share/defaults/sysstat
+conf_file=sysstat
